@@ -1,1 +1,1 @@
-# Real-Time-Log-Analytics-Using-ES-Hadoop-and-AWS-master
+# Real-Time-Log-Analytics-Using-ES-Hadoop-and-AWS
